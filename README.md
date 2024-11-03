@@ -38,8 +38,7 @@ https://next-pg-shadcn-ecommerce.vercel.app
 1. Clone repo
 
    ```shell
-    $ git clone git@github.com:basir/next-pg-shadcn-ecommerce.git
-    $ cd next-pg-shadcn-ecommerce
+    
    ```
 
 2. Create .env.local File
@@ -115,4 +114,4 @@ https://next-pg-shadcn-ecommerce.vercel.app
 
 ## Contact Developer
 
-Email: basir.jafarzadeh@gmail.com
+Email: keshavgowda1329@gmail.com
